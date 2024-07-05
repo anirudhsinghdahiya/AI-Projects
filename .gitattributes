@@ -1,0 +1,2 @@
+Convolutional[[:space:]]Neural[[:space:]]Networks[[:space:]](LeNet)/data/miniplaces/cached_train.pkl filter=lfs diff=lfs merge=lfs -text
+Convolutional[[:space:]]Neural[[:space:]]Networks[[:space:]](LeNet)/hw7venv/lib/python3.11/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
