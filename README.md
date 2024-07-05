@@ -1,5 +1,5 @@
 # AI-Projects
-## Probabilistic Language Identification
+## 1) Probabilistic Language Identification
 
 ### Description
 This project involves developing a probabilistic model to identify the language of a given text. The model utilizes a Naive Bayes classifier trained on a dataset comprising text samples from various languages. The process includes data preprocessing, training the classifier, and evaluating its performance on language detection tasks.
@@ -14,3 +14,7 @@ This project involves developing a probabilistic model to identify the language 
   - Training the classifier using a multilingual dataset.
 
 - **Language Detection**:
+  - Predicting the language of new text samples based on the highest probability calculated by the Naive Bayes classifier.
+  - Evaluating the model's performance using metrics such as accuracy, precision, and recall.
+
+
